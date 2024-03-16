@@ -1,0 +1,26 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+  
+    box-sizing: border-box;
+  
+    text-decoration: none;
+  
+    border: none;
+    outline: none;
+  
+    scroll-behavior: smooth;
+  
+    font-family: var(--font-primary), sans-serif;
+  }
+  
+  :root {
+    --font-primary: 'Poppins', sans-serif;
+  }
+:root {
+ --bg-color: #080808;
+ --second-color: #131313;
+ --text-color: white;
+ --main-color: #00ffee;
+}
