@@ -412,3 +412,29 @@ timeline-dot{
   line-height: 1.7;
   margin: auto;
 }
+.testimonials{
+  background: var(--second-bg-color);
+}
+.testimonials-box{
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.testimonials.heading{
+  margin-bottom: 5rem;
+}
+.testimonials-items{
+ min-height: 550px;
+ max-width: 450px;
+ background: rgba(0, 0, 0, 0.7);
+ border: 3px solid rgba(238, 238, 238, 0.2);
+ border-radius: 2rem;
+ margin: 0 2rem;
+ padding: 30px 60px;
+ cursor: pointer;
+ display: flex;
+ flex-direction: ;
+
+}
